@@ -12,3 +12,9 @@ function sum(a, b) {
 }
 
 console.log(sum(3, 4));
+
+function square(x) {
+  return x ** x;
+}
+
+console.log(square(5));
