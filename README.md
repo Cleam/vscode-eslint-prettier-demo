@@ -1,4 +1,4 @@
-# sd-vue
+# sd-vue-3
 
 ## Project setup
 ```

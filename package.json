@@ -1,5 +1,5 @@
 {
-  "name": "sd-vue",
+  "name": "sd-vue-3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -24,6 +24,7 @@
   "eslintConfig": {
     "root": true,
     "env": {
+      "node": true,
       "browser": true
     },
     "extends": [
@@ -31,10 +32,6 @@
       "eslint:recommended",
       "plugin:prettier/recommended"
     ],
-    "parserOptions": {
-      "parser": "babel-eslint",
-      "sourceType": "module"
-    },
     "rules": {
       "prettier/prettier": [
         "error",
@@ -51,6 +48,9 @@
         2
       ],
       "prefer-template": "error"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
     }
   },
   "postcss": {
