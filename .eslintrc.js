@@ -1,4 +1,5 @@
 module.exports = {
+  root: true,
   // 环境配置（根据实际情况做取舍）
   env: {
     browser: true,
