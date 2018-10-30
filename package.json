@@ -24,11 +24,7 @@
   "eslintConfig": {
     "root": true,
     "env": {
-      "browser": true,
-      "node": true,
-      "commonjs": true,
-      "es6": true,
-      "jquery": true
+      "browser": true
     },
     "extends": [
       "plugin:vue/essential",
