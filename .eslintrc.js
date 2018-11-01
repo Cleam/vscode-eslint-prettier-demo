@@ -20,8 +20,6 @@ module.exports = {
         semi: true
       }
     ],
-    'no-console': 'off',
-    indent: ['error', 2],
-    'prefer-template': 'error'
+    'no-console': 'off'
   }
 };
