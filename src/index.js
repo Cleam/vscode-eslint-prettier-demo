@@ -2,7 +2,6 @@ console.log('aaa');
 
 /**
  *求和
- *
  * @param {Number} a 参数1（必须）
  * @param {Number} b 参数2（必须）
  * @returns 求和结果
@@ -18,3 +17,8 @@ function square(x) {
 }
 
 console.log(square(5));
+
+const name = 'dftt';
+let str = `I am ${name}. Who you are? Who you are? Who you are? Who you are? Who you are?  Who you are? Who you are?`;
+
+console.log(str);
