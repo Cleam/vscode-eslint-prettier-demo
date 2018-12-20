@@ -8,7 +8,7 @@ module.exports = {
   env: {
     browser: true
   },
-  extends: ['plugin:vue/essential', 'eslint:recommended', 'plugin:prettier/recommended'],
+  extends: ['eslint:recommended', 'plugin:vue/essential', 'plugin:prettier/recommended'],
   plugins: ['vue'],
   rules: {
     'prettier/prettier': [
