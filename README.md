@@ -1,24 +1,5 @@
-# t
+# vue
 
-## Project setup
-```
-npm install
-```
+基于[vue cli 3](https://cli.vuejs.org/zh/) 实现的项目示例。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+具体规范配置，请查看项目相关文件。
